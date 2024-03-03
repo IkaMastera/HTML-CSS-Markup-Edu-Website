@@ -1,6 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/* Style Variables */
+
+:root {   
+    --header-height: 3.5rem;
+    
+    /* Color Mode HSL */
+    --title-color: #ef017e;
+    --text-color: hsl(0, 0%, 70%);
+    --text-color-light: hsl(0, 0%, 60%);
+    --body-color: hsl(0, 0%, 0%);
+    --container-color: hsl(0, 0%, 8%);
+    --call-to-action-color: hsl(240, 100%, 25%);
+    
+    /* Font and typography */
+    --main-font: "Poppins", sans-serif;
+    --biggest-font-size: 2.75rem;
+    --h1-font-size: 1.5rem;
+    --h2-font-size: 1.25rem;
+    --h3-font-size: 1rem;
+    --normal-font-size: 0.920rem;
+    --small-font-size: 0.8rem;
+    --smaller-font-size: 0.7rem;
+    
+    /* Font Weight */
+    --font-regular: 400;
+    --font-medium: 500;
+    --font-semi-bold: 600;
+}
+
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
 }
+
+/*===== HOME =====*/
+
+/* Home Courses */
+
+/* Home Campus */
+
+/* Home Facilities */
+
+/* Home Testimonials */
+
+/* Home Call To Action */
+
+/* Home About us */
+
+
+/* ABOUT */
+
+/* COURSE */
+
+/* BLOG */
+
+/* CONTACT */
